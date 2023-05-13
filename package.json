@@ -1,0 +1,19 @@
+{
+  "name": "bob-bot",
+  "version": "1.0.0",
+  "description": "A multifunctional Discord bot made with Discord.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murandido",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/core": "^0.6.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
